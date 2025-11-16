@@ -1,5 +1,7 @@
 # 🥐
 
+LINK: https://app-delicia-react-y-firebase.vercel.app/
+
 Mini proyecto de e-commerce para una panadería/pastelería ficticia llamada "Delicia". La aplicación permite a los usuarios explorar productos, gestionar un carrito de compras y autenticarse. También incluye un panel de administración para la gestión de productos.
 
 ## 📋 Características Principales
